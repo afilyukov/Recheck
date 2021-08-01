@@ -51,6 +51,9 @@ public class MyArrayList {
     }
 
     public boolean remove(int index) {
+        if (index > size - 1 || index < 0) {
+            throw new IllegalArgumentException(String.format("Индекс %d не существует при размерности списка %d", index, size));
+        }
         final int newSize = size - 1;
         if (newSize > index) System.arraycopy(elements, index + 1, elements, index, newSize - index);
         elements[size = newSize] = null;

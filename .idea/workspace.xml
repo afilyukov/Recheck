@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Little Fixes">
-      <change afterPath="$PROJECT_DIR$/Task2/Task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/src/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/src/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Task 2 completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/src/MyArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Little Fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Little Fixes" />
+    <MESSAGE value="Task 2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2 completed" />
   </component>
 </project>
