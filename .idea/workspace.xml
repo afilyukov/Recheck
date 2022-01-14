@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Task 2 completed">
+    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="merge">
+      <change afterPath="$PROJECT_DIR$/Task1 OOP/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2 Data structures/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/Task3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/Task1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/Task1 OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/IEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/IEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/IMotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/IMotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/LightWeightCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/LightWeightCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/LorryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/LorryCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/Task2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 Data structures/Task2 Data structures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 Data structures/src/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 Data structures/src/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +42,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1vXWrltkaWCK1AGLDQ7ER194LQ6" />
   <component name="ProjectLevelVcsManager">
@@ -43,6 +66,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.11904764" />
     <property name="project.structure.side.proportion" value="0.22352941" />
@@ -61,6 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task1 OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Recheck" />
       <method v="2">
@@ -70,13 +101,6 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="Recheck" />
       <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Task1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,12 +146,12 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Little Fixes" />
     <MESSAGE value="Task 2 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2 completed" />
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
 </project>
