@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="merge">
-      <change afterPath="$PROJECT_DIR$/Task1 OOP/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2 Data structures/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task3/Task3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Renaming">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Task1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/Task1 OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/IEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/IEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/IMotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/IMotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/LightWeightCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/LightWeightCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/carreview/LorryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/carreview/LorryCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/figures/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 OOP/src/figures/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2/Task2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 Data structures/Task2 Data structures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 Data structures/src/MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 Data structures/src/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626710446264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Renaming">
+      <created>1642179047236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642179047236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +139,7 @@
     <MESSAGE value="Little Fixes" />
     <MESSAGE value="Task 2 completed" />
     <MESSAGE value="merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge" />
+    <MESSAGE value="Renaming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming" />
   </component>
 </project>
