@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Recheck.iml" filepath="$PROJECT_DIR$/.idea/Recheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1 OOP/Task1 OOP.iml" filepath="$PROJECT_DIR$/Task1 OOP/Task1 OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task2 Data structures/Task2 Data structures.iml" filepath="$PROJECT_DIR$/Task2 Data structures/Task2 Data structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task3 Multithreading/Task3 Multithreading.iml" filepath="$PROJECT_DIR$/Task3 Multithreading/Task3 Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task4 DB/Task4 DB.iml" filepath="$PROJECT_DIR$/Task4 DB/Task4 DB.iml" />
     </modules>
   </component>
 </project>
