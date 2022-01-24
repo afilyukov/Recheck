@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6e90bdd-45e3-40b6-8a90-fc5227c5f67d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task4 DB/Task4 DB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4 DB/res/db/InitiateDatabase.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4 DB/res/db/Tasks.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Renaming">
+      <change afterPath="$PROJECT_DIR$/Task4 DB/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/Task5 Hibernate.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 Data structures/Task2 Data structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 Data structures/Task2 Data structures.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="task1" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -27,27 +34,41 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="23hPLa88P4F1KOi4MbpXTjU2vas" />
+  <component name="ProjectId" id="1vXWrltkaWCK1AGLDQ7ER194LQ6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showModules" value="false" />
-    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.11904764" />
     <property name="project.structure.side.proportion" value="0.22352941" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Task3">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Task1 OOP" />
@@ -66,21 +87,36 @@
       <list>
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6e90bdd-45e3-40b6-8a90-fc5227c5f67d" name="Changes" comment="" />
-      <created>1642183290565</created>
+      <changelist id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="" />
+      <created>1626709118303</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642183290565</updated>
+      <updated>1626709118303</updated>
+      <workItem from="1626709121576" duration="695000" />
+      <workItem from="1626718024202" duration="1255000" />
+      <workItem from="1626793636920" duration="22000" />
     </task>
+    <task id="LOCAL-00001" summary="Little Fixes">
+      <created>1626710446264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626710446264</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Renaming">
+      <created>1642179047236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642179047236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +132,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Little Fixes" />
+    <MESSAGE value="Task 2 completed" />
+    <MESSAGE value="merge" />
+    <MESSAGE value="Renaming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming" />
   </component>
 </project>
