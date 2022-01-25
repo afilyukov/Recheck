@@ -1,0 +1,1 @@
+create table students (student_id integer primary key not null AUTO_INCREMENT, student_name varchar(255) not null, student_mark tinyint not null);

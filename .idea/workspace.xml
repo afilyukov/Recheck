@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Renaming">
-      <change afterPath="$PROJECT_DIR$/Task4 DB/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/Task5 Hibernate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Task5 started">
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/PrepareDBApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/model/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/model/repository/AbstractRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/model/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/configs/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/sql/init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task5 Hibernate/Task5 Hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task5 Hibernate/Task5 Hibernate.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,31 +42,67 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1vXWrltkaWCK1AGLDQ7ER194LQ6" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task5 Hibernate" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.11904764" />
     <property name="project.structure.side.proportion" value="0.22352941" />
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Task5 Hibernate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/sql" />
+      <recent name="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/configs" />
+      <recent name="$PROJECT_DIR$/Task5 Hibernate/src" />
+      <recent name="$PROJECT_DIR$/Task5 Hibernate/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -69,9 +116,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hiber.Main" />
+      <module name="Task5 Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hiber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Task1 OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrepareDBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hiber.PrepareDBApp" />
+      <module name="Task5 Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hiber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,6 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.PrepareDBApp" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Main" />
       </list>
@@ -116,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642179047236</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task5 started">
+      <created>1643033226920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643033226920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +221,7 @@
     <MESSAGE value="Task 2 completed" />
     <MESSAGE value="merge" />
     <MESSAGE value="Renaming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming" />
+    <MESSAGE value="Task5 started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task5 started" />
   </component>
 </project>
