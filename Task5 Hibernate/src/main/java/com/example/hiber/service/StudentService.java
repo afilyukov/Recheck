@@ -3,13 +3,9 @@ package com.example.hiber.service;
 import com.example.hiber.model.entity.Student;
 import com.example.hiber.model.repository.AbstractRepository;
 import com.example.hiber.model.repository.StudentRepository;
-import com.mysql.cj.jdbc.exceptions.OperationNotSupportedException;
-import org.hibernate.Hibernate;
-import org.hibernate.SessionFactory;
 
 import javax.persistence.EntityManager;
 import java.util.List;
-import java.util.Optional;
 
 public class StudentService {
 
@@ -45,7 +41,5 @@ public class StudentService {
     public void deleteStudentById(Integer id){
         studentRepository.remove(id);
     }
-
-
 
 }

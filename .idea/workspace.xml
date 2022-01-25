@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Task5 started">
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/PrepareDBApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/model/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/model/repository/AbstractRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/model/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/java/com/example/hiber/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/configs/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5 Hibernate/src/main/resources/sql/init.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="89aae026-64fa-49a1-a5a6-b21468e86db3" name="Default Changelist" comment="Task5 done">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task5 Hibernate/Task5 Hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task5 Hibernate/Task5 Hibernate.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643033226920</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task5 done">
+      <created>1643103159790</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643103159790</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task5 done">
+      <created>1643103197518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643103197518</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +225,7 @@
     <MESSAGE value="merge" />
     <MESSAGE value="Renaming" />
     <MESSAGE value="Task5 started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task5 started" />
+    <MESSAGE value="Task5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task5 done" />
   </component>
 </project>
