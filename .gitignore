@@ -1,5 +1,7 @@
 /out/
 /Task1 OOP/out/
+/Task2 Data structures/out/
+/Task3 Multithreading/out/
 /Task5 Hibernate/target/
 /.idea/
 *.iml
