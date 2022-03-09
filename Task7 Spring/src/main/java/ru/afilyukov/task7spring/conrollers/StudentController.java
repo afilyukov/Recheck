@@ -2,8 +2,8 @@ package ru.afilyukov.task7spring.conrollers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import ru.afilyukov.task7spring.models.Student;
-import ru.afilyukov.task7spring.services.StudentService;
+import ru.afilyukov.task7spring.model.entities.Student;
+import ru.afilyukov.task7spring.model.services.StudentService;
 
 import java.util.List;
 

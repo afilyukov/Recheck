@@ -1,13 +1,13 @@
-package ru.afilyukov.task7spring.services;
+package ru.afilyukov.task7spring.model.services;
 
 import org.springframework.stereotype.Service;
-import ru.afilyukov.task7spring.models.Student;
-import ru.afilyukov.task7spring.repositories.StudentRepository;
-
+import org.springframework.transaction.annotation.Transactional;
+import ru.afilyukov.task7spring.model.entities.Student;
+import ru.afilyukov.task7spring.model.repositories.StudentRepository;
 import javax.persistence.EntityNotFoundException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
-
 
 @Service
 public class StudentService {
@@ -17,19 +17,21 @@ public class StudentService {
         this.studentRepository = studentRepository;
     }
 
+    @Transactional
     public Student findById(Long id) {
-        Student student = studentRepository.findById(id).get();
-        return student;
+        return studentRepository.findById(id).orElse(null);
     }
 
     public List<Student> showAll() {
-        return new ArrayList<>(studentRepository.findAll());
+        return Collections.unmodifiableList(studentRepository.findAll());
     }
 
+    @Transactional
     public void deleteById(Long id) {
         studentRepository.deleteById(id);
     }
 
+    @Transactional
     public Student saveOrUpdate(Student student) {
         Student entity = null;
         if (student.getId() != null) {

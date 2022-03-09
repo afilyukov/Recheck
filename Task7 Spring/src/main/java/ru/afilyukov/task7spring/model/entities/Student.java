@@ -1,5 +1,4 @@
-package ru.afilyukov.task7spring.models;
-
+package ru.afilyukov.task7spring.model.entities;
 
 import javax.persistence.*;
 
@@ -17,6 +16,9 @@ public class Student {
 
     @Column(name = "age")
     private int age;
+
+    public Student() {}
+
     public Long getId() {
         return id;
     }
@@ -42,13 +44,17 @@ public class Student {
     }
 
 
-
     public Student(String name, int age) {
         this.name = name;
         this.age = age;
     }
 
-    public Student() {
-
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                '}';
     }
 }
